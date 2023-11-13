@@ -1,0 +1,5 @@
+addMeal=1
+addDish=1
+addDishNotLast=0
+deleteMeal=0
+deleteDishMealx=0

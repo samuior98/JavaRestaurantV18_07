@@ -1,0 +1,3 @@
+sam,pass1,0
+pippo,pass2,1
+pluto,pass3,2
